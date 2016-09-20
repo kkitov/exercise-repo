@@ -1,3 +1,5 @@
 # exercise-repo
 Repo made for exercise.
-Update with Bash.
+
+We consider both ways and decided to delete them ( bash and tortoise way :) )
+
